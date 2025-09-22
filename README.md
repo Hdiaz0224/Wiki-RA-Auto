@@ -67,7 +67,7 @@ En CODESYS se implementó la lógica en lenguaje **Ladder Diagram (LD)**, a part
 ### 5.1 Configuración del Runtime
 *Sección pendiente de realizar con hardware físico (Arduino y LEDs).*  
 
-📷 *[Espacio reservado para fotos de la conexión física del Arduino con los LEDs]*  
+*PONER FOTO DEL ARDUINO ACA*  
 
 ### 5.2 Monitoreo de Entradas y Salidas
 *Pruebas de validación con hardware real aún por realizar.*  
