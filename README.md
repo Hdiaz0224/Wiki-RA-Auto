@@ -72,7 +72,7 @@ En CODESYS se implementó la lógica en lenguaje **Ladder Diagram (LD)**, a part
 ### 5.2 Monitoreo de Entradas y Salidas
 *Pruebas de validación con hardware real aún por realizar.*  
 
-📷 *[Espacio reservado para capturas del Monitoring mostrando el funcionamiento con el Arduino]*  
+*PONER FOTO DEL ARDUINO ACA*  
 
 ---
 
