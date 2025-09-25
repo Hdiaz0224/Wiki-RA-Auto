@@ -1,4 +1,4 @@
-# Monitoreo de Niveles de Tanque con CODESYS y OpenPLC
+# Monitoreo de Niveles de Tanque con CODESYS y OpenPLC Hector Diaz - Juan Pinilla
 
 ## 1. Introducción
 Este proyecto tiene como objetivo **diseñar, simular y validar** un sistema de monitoreo de niveles de líquido en un tanque químico, usando **CODESYS** para la implementación del diagrama Ladder y **OpenPLC Runtime** para la validación con hardware simulado/real.  
