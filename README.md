@@ -85,4 +85,8 @@ En CODESYS se implementó la lógica en lenguaje **Ladder Diagram (LD)**, a part
 ---
  **Archivos adjuntos en el repositorio:**  
 - Código fuente CODESYS
-- Programa OpenPLC 
+- Programa OpenPLC
+
+## 8. Videos
+- Parte 1: https://teams.microsoft.com/l/meetingrecap?driveId=b%21-kXli7fJREuqEOu348eaZiLYJB6K7H5Mk9Sgk_I8sgCuXuKwWdo-QYEN_pKQQtUz&driveItemId=01S7ZM5AEMJKXVZY2BVZC2L2YJ2633MYTM&sitePath=https%3A%2F%2Funisabanaedu-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhectordial_unisabana_edu_co%2FEYxKr1zjQa5FpesJ17e2YmwBHfHVIATMIP7-FkkLx0Swcg&fileUrl=https%3A%2F%2Funisabanaedu-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fhectordial_unisabana_edu_co%2FEYxKr1zjQa5FpesJ17e2YmwBHfHVIATMIP7-FkkLx0Swcg&threadId=19%3A2d0b93be-fad5-40ae-82db-23f844f8b3bb_ed4b34ad-f88d-491b-af33-c1a5af1d0dae%40unq.gbl.spaces&callId=61c5f922-86fb-45c1-84e5-ef2207baaf57&threadType=OneOnOneChat&meetingType=Unknown&subType=RecapSharingLink_RecapChiclet
+- Parte 2: https://youtu.be/HDot0iQZR7k
