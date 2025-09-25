@@ -64,15 +64,10 @@ En CODESYS se implementó la lógica en lenguaje **Ladder Diagram (LD)**, a part
 
 ## 5. Validación en OpenPLC
 
-### 5.1 Configuración del Runtime
-*Sección pendiente de realizar con hardware físico (Arduino y LEDs).*  
 
-*PONER FOTO DEL ARDUINO ACA*  
-
-### 5.2 Monitoreo de Entradas y Salidas
-*Pruebas de validación con hardware real aún por realizar.*  
-
-*PONER FOTO DEL ARDUINO ACA*  
+### 5.1 Monitoreo de Entradas y Salidas
+<img width="1181" height="546" alt="image" src="https://github.com/user-attachments/assets/009b8af2-4d08-4652-b99c-570a59b69080" />
+  
 
 ---
 
@@ -86,7 +81,6 @@ En CODESYS se implementó la lógica en lenguaje **Ladder Diagram (LD)**, a part
 ## 7. Conclusiones
 - Se logró implementar exitosamente un **sistema de monitoreo de nivel de tanque** en CODESYS y validarlo en OpenPLC.  
 - La combinación de **HMI + Ladder + OpenPLC** permite probar sistemas industriales sin necesidad inmediata de hardware físico.  
-- El diseño modular de la lógica facilita futuras ampliaciones, como control de bombas o comunicación SCADA.  
 
 ---
  **Archivos adjuntos en el repositorio:**  
